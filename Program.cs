@@ -1,4 +1,5 @@
 ﻿using System;
+using DIO_PJ_CRUD.Classes;
 
 namespace DIO_PJ_CRUD
 {
@@ -6,8 +7,8 @@ namespace DIO_PJ_CRUD
     {
         static void Main(string[] args)
         {
-            EntidadeBase minhaClasse = new EntidadeBase();
-            Console.WriteLine("Hello World!");
+
+
         }
     }
 }
