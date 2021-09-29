@@ -1,4 +1,4 @@
-namespace DIO_PJ_CRUD.Enum
+namespace DIO_Series.Enum
 {
     public enum Genero
     {

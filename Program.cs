@@ -1,7 +1,7 @@
 ﻿using System;
-using DIO_PJ_CRUD.Classes;
+using DIO_Series.Classes;
 
-namespace DIO_PJ_CRUD
+namespace DIO_Series
 {
     class Program
     {

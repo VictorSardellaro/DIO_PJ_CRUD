@@ -1,4 +1,4 @@
-namespace DIO_PJ_CRUD.Classes
+namespace DIO_Series.Classes
 {
     public abstract class EntidadeBase
     {
