@@ -1,5 +1,4 @@
 using System;
-using DIO_Series.Enum;
 
 namespace DIO_Series.Classes
 {
