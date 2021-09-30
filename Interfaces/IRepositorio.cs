@@ -4,11 +4,11 @@ namespace DIO_Series.Interfaces
 {
     public interface IRepositorio<T>
     {
-        public List<T> Lista();
+        List<T> Lista();
         T RetornaPorId(int id);
         void Insere(T entidade);
         void Exclui(int id);
-        void Atualiza(int ind, T entidade);
+        void Atualiza(int id, T entidade);
         int ProximoId();
     }
 
