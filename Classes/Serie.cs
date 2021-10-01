@@ -30,6 +30,7 @@ namespace DIO_Series.Classes
             retorno += $"Titulo: {this.Titulo} {Environment.NewLine}";
             retorno += $"Descrição: {this.Descricao} {Environment.NewLine}";
             retorno += $"Ano de inicio: {this.Ano}";
+            retorno += $"Excluido: {this.Excluido}";
 
             return retorno;
         }
